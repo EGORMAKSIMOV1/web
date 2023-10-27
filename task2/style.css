@@ -1,0 +1,47 @@
+div.carousel-inner{
+	display: block;
+	margin: 0 auto;
+}
+div.carousel-i{
+	display: block;
+	margin: 0 auto;
+}
+img.carousel{
+	width: 30%;
+}
+.firstgroup{
+    padding-top: 50px;
+    padding-left: 71px;
+    padding-right: 71px;
+    display: flex;
+    justify-content: center;
+
+}
+h1{
+	padding-top: 30px;
+	text-align: center;
+	color: whitesmoke;
+}
+.secondgroup{
+    padding-top: 50px;
+    padding-left: 71px;
+    padding-right: 71px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: center;
+
+}
+p{
+	text-align: center;
+}
+body{
+	background-image: url("back.jpg");
+	background-repeat:  no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
+.carousel{
+	display: flex;
+    justify-content: center;
+    flex-basis: 500px;
+}
